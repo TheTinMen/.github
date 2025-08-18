@@ -1,8 +1,6 @@
-# 👋 Welcome to The Tin Men Github
+# 👋 Welcome to The Tin Men GitHub
 
-Welcome to our git-hub for software services related to The Tin Men Discord server. 
-
-https://discord.gg/KbQz7MRFEg
+Welcome to our GitHub for software services related to [TheTinMen Discord server](https://discord.gg/KbQz7MRFEg). 
 
 ## 🪲 The Tin Men Ecosystem 
 
@@ -15,12 +13,12 @@ C++ Discord bot for streamlined moderation tools, user queries and database inte
  
 ## ✍️ Authors
 
-- @BackoThePortal: Admin, thetinmen-db, scarcrow-plus
-- @AeoliumTheGreater: Admin, neural-met-catgorizer
+- [@BackoThePortal](https://github.com/BackThePortal): Admin, thetinmen-db, scarcrow-plus
+- [@AeoliumTheGreater](https://github.com/AeoliumTheGreater): Admin, neural-met-catgorizer
 
 ## 🎉 Acknowledgements
 
-- The man 👨, the myth 🧜‍♂️, the ledgend 🤺 - George: https://www.instagram.com/thetinmen/
+- The man 👨, the myth 🧜‍♂️, the legend 🤺 - George: https://www.instagram.com/thetinmen/
 
 ## 🎨 Style Guides
 
