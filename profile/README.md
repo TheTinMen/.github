@@ -14,7 +14,7 @@ C++ Discord bot for streamlined moderation tools, user queries and database inte
 ## ✍️ Authors
 
 - [@BackThePortal (aka Backo)](https://github.com/BackThePortal): Admin, thetinmen-db, scarcrow-plus
-- [@AeoliumTheGreater](https://github.com/AeoliumTheGreater): Admin, neural-met-catgorizer
+- [@AeoliumTheGreater](https://github.com/AeoliumTheGreater): Admin, neural-net-catgorizer
 
 ## 🎉 Acknowledgements
 
